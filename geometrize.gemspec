@@ -26,6 +26,7 @@ Gem::Specification.new do |s|
     "README.rdoc",
     "Rakefile",
     "VERSION",
+    "geometrize.gemspec",
     "lib/geometrize.rb",
     "spec/geometrize_spec.rb",
     "spec/spec_helper.rb"
